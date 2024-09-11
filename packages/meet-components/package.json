@@ -32,7 +32,7 @@
     "@rax-ui/locale": "^1.0.0-beta.10",
     "classnames": "^2.2.6",
     "rax": "^1.1.1",
-    "rax-app": "^0.1.0",
+    "rax-app": "^3.0.0",
     "rax-dom": "^1.0.1",
     "rax-image": "^1.0.3",
     "rax-link": "^1.0.1",
