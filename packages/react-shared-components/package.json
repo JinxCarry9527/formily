@@ -26,7 +26,7 @@
     "typescript": "~3.8.0"
   },
   "dependencies": {
-    "@formily/shared": "^1.3.13",
+    "@formily/shared": "^2.0.0",
     "react-drag-listview": "^0.1.6"
   }
 }
